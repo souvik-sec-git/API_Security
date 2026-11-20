@@ -14,8 +14,20 @@
 
 7. docker compose -f docker-compose.yml --compatibility up -d  
 
-#### visit:  
+##### visit:  
 
 http://localhost:8888 (Website)  
 
-http://localhost:8025 (mails)
+http://localhost:8025 (mails)  
+
+
+### Postman:
+
+1. https://www.postman.com/downloads/  
+
+2. tar -xzf (downloaded tar file)  
+
+3. cd Postman/app  
+
+4. ./Postman (to start it)
+
